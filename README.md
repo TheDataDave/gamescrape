@@ -1,4 +1,4 @@
-### Gamescrape
+# Gamescrape
 useage:
 gamescrape <game name> [options]
 
